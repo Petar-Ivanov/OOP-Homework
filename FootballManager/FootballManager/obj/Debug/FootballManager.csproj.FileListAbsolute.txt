@@ -1,0 +1,8 @@
+C:\VS Projects\FootballManager\FootballManager\bin\Debug\FootballManager.exe.config
+C:\VS Projects\FootballManager\FootballManager\bin\Debug\FootballManager.exe
+C:\VS Projects\FootballManager\FootballManager\bin\Debug\FootballManager.pdb
+C:\VS Projects\FootballManager\FootballManager\obj\Debug\FootballManager.csproj.AssemblyReference.cache
+C:\VS Projects\FootballManager\FootballManager\obj\Debug\FootballManager.csproj.CoreCompileInputs.cache
+C:\VS Projects\FootballManager\FootballManager\obj\Debug\FootballManager.exe
+C:\VS Projects\FootballManager\FootballManager\obj\Debug\FootballManager.pdb
+C:\VS Projects\FootballManager\FootballManager\obj\Debug\FootballManager.csproj.SuggestedBindingRedirects.cache
